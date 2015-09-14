@@ -1,2 +1,4 @@
 # atlas-demo
-ATLAS demo application
+
+This application is used to demo ATLAS.
+
